@@ -6,6 +6,14 @@
     <description>Modus for Mac updates</description>
     <language>en</language>
     <item>
+      <title>Modus 2.6.0</title>
+      <pubDate>Sat, 21 Nov 2026 04:31:07 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Promostrat/modus-releases/releases/download/v2.6.0/Modus-2.6.0.dmg" length="10023731" type="application/octet-stream" sparkle:edSignature="d6CACcxoXfzFzh+C1nObbzMJaAXJKCNoGWLGBn8PElfCnIM0j5KPOC0oHs6z6N9zuIUyax81+rSB0ArXXPj1BA=="/>
+    </item>
+    <item>
       <title>Modus 2.5.2</title>
       <pubDate>Sat, 21 Nov 2026 03:25:12 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
